@@ -22,6 +22,18 @@ inspection effectiveness, and surfaces year-over-year trends from
 - **Manhattan is the only borough that improved** between 2021 
   and 2024, reducing its rate by 5.7 percentage points
 
+## Visualizations
+
+### Rat Activity Rate by Borough and Month
+![Heatmap](heatmap_borough_month.png)
+
+### Rat Activity Trends by Borough (2021-2024)
+![Borough Trends](borough_trends.png)
+
+### Top 15 Zip Code Hotspots
+![Top Zip Codes](top_zips.png)
+```
+
 ## Tech Stack
 - **Python** (Pandas, NumPy) — data cleaning and processing
 - **SQLite / SQL** — analytical queries across 865K records
