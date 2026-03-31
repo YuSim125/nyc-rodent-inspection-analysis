@@ -32,7 +32,7 @@ inspection effectiveness, and surfaces year-over-year trends from
 
 ### Top 15 Zip Code Hotspots
 ![Top Zip Codes](top_zips.png)
-```
+
 
 ## Tech Stack
 - **Python** (Pandas, NumPy) — data cleaning and processing
