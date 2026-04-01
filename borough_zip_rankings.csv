@@ -1,0 +1,16 @@
+BOROUGH,ZIP_CODE,rat_rate_pct,borough_rank
+Bronx,10471.0,33.82,1
+Bronx,10463.0,29.27,2
+Bronx,10468.0,23.16,3
+Brooklyn,11217.0,35.57,1
+Brooklyn,11237.0,33.36,2
+Brooklyn,11215.0,33.29,3
+Manhattan,10033.0,26.39,1
+Manhattan,10001.0,25.39,2
+Manhattan,10039.0,23.37,3
+Queens,11101.0,27.19,1
+Queens,11104.0,26.7,2
+Queens,11377.0,24.51,3
+Staten Island,10310.0,12.58,1
+Staten Island,10304.0,4.72,2
+Staten Island,10302.0,4.71,3

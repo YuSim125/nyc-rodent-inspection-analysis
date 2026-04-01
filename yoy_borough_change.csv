@@ -1,0 +1,21 @@
+BOROUGH,YEAR,rat_rate_pct,prev_year_rate,yoy_change
+Bronx,2021,18.16,,
+Bronx,2022,15.92,18.16,-2.24
+Bronx,2023,16.59,15.92,0.67
+Bronx,2024,20.9,16.59,4.31
+Brooklyn,2021,22.68,,
+Brooklyn,2022,22.72,22.68,0.04
+Brooklyn,2023,23.34,22.72,0.62
+Brooklyn,2024,23.55,23.34,0.21
+Manhattan,2021,22.09,,
+Manhattan,2022,20.5,22.09,-1.59
+Manhattan,2023,17.28,20.5,-3.22
+Manhattan,2024,16.39,17.28,-0.89
+Queens,2021,15.64,,
+Queens,2022,16.89,15.64,1.25
+Queens,2023,19.78,16.89,2.89
+Queens,2024,18.85,19.78,-0.93
+Staten Island,2021,2.33,,
+Staten Island,2022,2.9,2.33,0.57
+Staten Island,2023,3.67,2.9,0.77
+Staten Island,2024,8.91,3.67,5.24
